@@ -1,0 +1,4 @@
+1. Edit: Make changes to the project files.
+2. Add: Use git add to stage the changes.
+3. Commit: Use git commit to save the changes in Git history.
+4. Push: Use git push to upload the commits to GitHub.

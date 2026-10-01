@@ -1,0 +1,47 @@
+.:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:22 .
+drwxr-x--- 1 rayasrah rayasrah 512 Oct  1 00:02 ..
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:07 archives
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:28 ex00
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:13 projects
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:07 tools
+
+./archives:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:07 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:22 ..
+
+./ex00:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:28 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:22 ..
+-rw-r--r-- 1 rayasrah rayasrah   0 Oct  1 00:28 tree_structure.txt
+
+./projects:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:13 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:22 ..
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 web
+
+./projects/web:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:13 ..
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 backend
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:13 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:13 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:14 ..
+
+./tools:
+total 0
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:07 .
+drwxr-xr-x 1 rayasrah rayasrah 512 Oct  1 00:22 ..
